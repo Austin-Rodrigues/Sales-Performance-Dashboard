@@ -20,7 +20,7 @@ This interactive dashboard was built using **Power BI** and the [Superstore Sale
 
 ---
 
-## ⚙Tech Stack
+## Tech Stack
 
 - **Power BI** – Dashboarding & data modeling
 - **DAX** – Calculated columns and custom measures
