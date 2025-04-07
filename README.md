@@ -1,6 +1,6 @@
 # 📊 Sales Performance Dashboard
 
-This interactive dashboard was built using **Power BI** and the [Superstore Sales dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) to analyze key sales KPIs across product categories, regions, and time.
+This interactive dashboard was built using **Power BI** and the [Superstore Sales dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data) to analyze key sales KPIs across product categories, regions, and time.
 
 ---
 
